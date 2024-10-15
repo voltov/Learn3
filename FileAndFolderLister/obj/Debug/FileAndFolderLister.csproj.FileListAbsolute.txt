@@ -1,0 +1,10 @@
+C:\BUCKET\DOT_NET\Learn_3\FileAndFolderLister\bin\Debug\FileAndFolderLister.exe.config
+C:\BUCKET\DOT_NET\Learn_3\FileAndFolderLister\bin\Debug\FileAndFolderLister.exe
+C:\BUCKET\DOT_NET\Learn_3\FileAndFolderLister\bin\Debug\FileAndFolderLister.pdb
+C:\BUCKET\DOT_NET\Learn_3\FileAndFolderLister\obj\Debug\FileAndFolderLister.csproj.AssemblyReference.cache
+C:\BUCKET\DOT_NET\Learn_3\FileAndFolderLister\obj\Debug\FileAndFolderLister.Form1.resources
+C:\BUCKET\DOT_NET\Learn_3\FileAndFolderLister\obj\Debug\FileAndFolderLister.Properties.Resources.resources
+C:\BUCKET\DOT_NET\Learn_3\FileAndFolderLister\obj\Debug\FileAndFolderLister.csproj.GenerateResource.cache
+C:\BUCKET\DOT_NET\Learn_3\FileAndFolderLister\obj\Debug\FileAndFolderLister.csproj.CoreCompileInputs.cache
+C:\BUCKET\DOT_NET\Learn_3\FileAndFolderLister\obj\Debug\FileAndFolderLister.exe
+C:\BUCKET\DOT_NET\Learn_3\FileAndFolderLister\obj\Debug\FileAndFolderLister.pdb
